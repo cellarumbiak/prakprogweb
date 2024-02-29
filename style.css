@@ -1,0 +1,64 @@
+header{
+    text-align: center;
+    word-spacing: 10px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+main , p .content{
+    text-align: center;
+    color:azure;
+    background-image: url(gambar/bg_hitam.jpeg);
+    border-color: whitesmoke;
+    border-image: repeat;
+
+    
+}
+
+
+main, table, tr, td, p{
+    border-width: 1px;
+    
+}
+
+main .textMerah{
+    color: red;
+}
+
+main .money {
+    text-decoration: underline;
+    font-weight: bold;
+}
+#upcomingList .listContent{
+    text-decoration: line-through;
+}
+
+#upcomingList .listContent{
+    list-style-image: url(gambar/sapi_2.png);
+    
+}
+
+
+
+table, th, tr, td{
+    border: 1px solid black;
+    
+
+}
+
+footer{
+
+    /* text-indent: 10px; */
+    color: white;
+    background-color: gray;
+    text-align: center;
+    letter-spacing: 10px;
+    
+
+}
+
+#listContent{
+    text-decoration: line-through;
+}
